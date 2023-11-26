@@ -23,7 +23,7 @@ title: My site
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "Gawronek69.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  Gawronek69
 
