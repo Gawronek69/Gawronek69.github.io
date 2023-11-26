@@ -22,7 +22,8 @@ title: Strona Gawronek69
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site
 
-baseurl:
+baseurl: ""
+url: ""
 github_username:  Gawronek69
 
 # Build settings
